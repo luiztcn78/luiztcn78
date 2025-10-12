@@ -1,4 +1,4 @@
-## Olá!! sou Luiz Tenório, programador predominantemente Back-End, mas desenrolo um Front muito bem!!
+## Olá!! sou Luiz Tenório, programador predominantemente Back-End, mas não desaponto no Front!!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tenorio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
