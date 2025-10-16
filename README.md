@@ -35,10 +35,3 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiztcn78&layout=compact&langs_count=8&theme=tokyonight&count_private=true"/>
   </a>
 </div>
-
-##
-
-### 🔥 Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=luiztcn78&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
