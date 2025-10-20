@@ -35,3 +35,6 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiztcn78&layout=compact&langs_count=8&theme=tokyonight&count_private=true"/>
   </a>
 </div>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=luiztcn78)](https://git.io/streak-stats)
